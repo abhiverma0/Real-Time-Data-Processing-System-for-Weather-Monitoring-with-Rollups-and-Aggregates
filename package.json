@@ -1,0 +1,21 @@
+{
+  "name": "real-time-data-processing-system-for-weather-monitoring-with-rollups-and-aggregates",
+  "version": "1.0.0",
+  "description": "This project is a real-time weather monitoring system that processes weather data from multiple cities, providing current conditions, daily summaries, and statistical aggregates. It includes features such as displaying temperature, humidity, wind speed, pressure, and weather conditions, as well as tracking the daily temperature trends and issuing alerts for specific conditions (e.g., high temperature).",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhiverma0/Real-Time-Data-Processing-System-for-Weather-Monitoring-with-Rollups-and-Aggregates.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/abhiverma0/Real-Time-Data-Processing-System-for-Weather-Monitoring-with-Rollups-and-Aggregates/issues"
+  },
+  "homepage": "https://github.com/abhiverma0/Real-Time-Data-Processing-System-for-Weather-Monitoring-with-Rollups-and-Aggregates#readme"
+}
